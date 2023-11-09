@@ -1,0 +1,3 @@
+16th November: 34. (Malware Detection): Ransomware Detection using Deception Models
+23th November: 51. (Software Security): Understand humans approach to Reverse Engineering
+7th December: 50. (Social Networks): Private data inference from Social Networks
