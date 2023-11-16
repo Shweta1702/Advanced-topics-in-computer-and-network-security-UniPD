@@ -1,0 +1,5 @@
+- A format of slides varies between Google Slides and LaTeX
+- We have between 20/30 slides on average per person/group
+- At least the primary and a secondary one as papers as info
+- Almost 10 minutes to ask questions
+- When you ask your provoking question, just say the surname and ask
