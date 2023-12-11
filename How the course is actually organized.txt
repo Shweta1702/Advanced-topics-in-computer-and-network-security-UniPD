@@ -1,6 +1,7 @@
 - First part
 
-Various people presenting topics of different kinds
+Various people presenting topics of different kinds; they are usually part of SPRITZ group or 
+just talks held by international people (such as from other universities, etc.)
 
 - Second part
 
@@ -20,3 +21,12 @@ at questions sent in form and you will get evaluated anyway; as said, in some le
 probably you wouldn't even get noticed and make questions, so no worries
 
 - Third part
+
+The SPRITZ members will propose a series of ideas, and we will have to choose one of them
+between projects of all themes (similar to the ones of presentations, such as ML, Communication, Jamming, 
+Network Security, Vehicles, Biometrics, Cyberphysical systems, etc.)
+- we will have to make an essay on a selected project and topic, writing an email to Conti and assistants
+asking for approval of the topic or a feedback
+- if they say yes, then the project should be delivered up until 24 hours before an exam date
+- if the project you want to do is not part of selected topics, you will have again to write to Conti 
+and teaching assistants proposing your idea; it can be approved anyway, but it's not guaranteed
